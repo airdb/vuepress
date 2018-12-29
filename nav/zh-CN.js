@@ -1,14 +1,13 @@
 module.exports = [
-  { text: 'sys1', link: '/zh-CN/sys1/' },
-  { text: 'sys2', link: '/zh-CN/sys2/' },
+  { text: '宝贝回家', link: '/zh-CN/bbhj/' },
   {
-    text: '了解更多',
+    text: '更多公益',
     items: [
       {
-	text: 'sys1',
+	text: '技术公开课',
         items: [
-          { text: '接口', link: 'zh-CN/sys1/' },
-          { text: '文档', link: 'zh-CN/sys1/' },
+          { text: 'Linux 系统入门', link: '/zh-CN/open/linux/' },
+          { text: 'Golang 编程基础课', link: '/zh-CN/open/golang/' },
         ]
       }
     ]

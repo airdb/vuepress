@@ -18,12 +18,14 @@ env:
 # cache components
 before_install:
     - env
+	- sudo npm install -g vuepress
 install:
     - ls -l
 before_script:
     - echo "before_script"
 script:
     # - npm i element-ui -S
+	- sudo npm install -g vuepress
     - npm install
     - npm run build
 after_success:

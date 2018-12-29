@@ -1,10 +1,13 @@
 module.exports = {
+  head: [
+	['link', {rel: 'icon', href: `/favicon.ico`}]
+  ],
   base : '/',
   locales: {
     '/': {
       lang: 'zh-CN',
-      title: 'Docs 文档平台',
-      description : 'docs',
+      title: 'airdb 技术公益平台',
+      description : '科技让公益更加美好。',
     },
     '/en-US': {
       lang: 'en-US',
@@ -24,8 +27,8 @@ module.exports = {
         lastUpdated: '上次更新',
         sidebar: {
             '/' : [
-                "/zh-CN/sys1/",
-                "/zh-CN/sys2/"
+                "/zh-CN/bbhj/",
+                "/zh-CN/open/",
             ]
         },
         sidebarDepth : 2
