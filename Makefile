@@ -1,6 +1,6 @@
 deploy:
-	npm run build
-	cd .vuepress/dist
+	#npm run build
+	$(shell cd .vuepress/dist)
 	echo 'www.airdb.com' > CNAME
 	git init
 	git add -A
