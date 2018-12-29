@@ -1,38 +1,37 @@
 module.exports = {
-  title: 'WeDocs 文档平台',
-  description : 'docs',
   base : '/v1/',
-  themeConfig : {
-    nav : [
-        { text: 'SYS1', link: '/sys1/' },
-        { text: 'SYS2', link: '/sys2' },
-        { text: 'SYS3', link: '/sys3' },
-        { text: '附录：错误码', link: '/error' },
-        { text: 'Languages',
-          items: [
-            { text: 'Chinese', link: '/language/chinese' },
-            { text: 'Japanese', link: '/language/japanese' }
-          ]
-        },
-        {
-          text: '系统',
-          items: [
-	    { text: 'sys1',
-              items: [
-                { text: '文档', link: '/language/chinese' },
-                { text: '接口', link: '/language/japanese' }
-              ]
-            }
-          ]
-        }
-      ],
-    sidebar: {
-        '/' : [
-            "apiword",
-            "api",
-            "error"
-        ]
+  locales: {
+    '/': {
+      lang: 'zh-CN',
+      title: 'Docs 文档平台',
+      description : 'docs',
     },
-    sidebarDepth : 2
+    '/en-US': {
+      lang: 'en-US',
+      title: 'WeDocs Documents plantform',
+      description : 'docs',
+    }
+  },
+  themeConfig : {
+    repo: 'airdb/vuepress',
+    docsDir: '.',
+    locales: {
+      '/': {
+        nav: require('../nav/zh-CN.js'),
+        selectText: '选择语言',
+        search: true,
+	searchMaxSuggestions: 10,
+        lastUpdated: '上次更新',
+        sidebar: {
+            '/' : [
+                "zh-CN/sys1/",
+                "apiword",
+                "api",
+                "error"
+            ]
+        },
+        sidebarDepth : 2
+      }
+    }
   }
 }
