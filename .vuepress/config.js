@@ -24,10 +24,8 @@ module.exports = {
         lastUpdated: '上次更新',
         sidebar: {
             '/' : [
-                "zh-CN/sys1/",
-                "apiword",
-                "api",
-                "error"
+                "/zh-CN/sys1/",
+                "/zh-CN/sys2/"
             ]
         },
         sidebarDepth : 2
