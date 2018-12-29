@@ -1,5 +1,5 @@
 module.exports = {
-  base : '/v1/',
+  base : '/',
   locales: {
     '/': {
       lang: 'zh-CN',
