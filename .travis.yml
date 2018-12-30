@@ -34,4 +34,5 @@ after_success:
     - git config user.email "${U_EMAIL}"
     - git add -A
     - git commit -m "Auto Update by Travis-CI"
+    - echo git push --force --quiet "https://${GH_TOKEN}@${GH_REF}" master:${P_BRANCH}
     - git push --force --quiet "https://${GH_TOKEN}@${GH_REF}" master:${P_BRANCH}
