@@ -18,7 +18,7 @@ env:
 # cache components
 before_install:
     - env
-    - sudo /usr/bin/npm install -g vuepress
+    - /usr/bin/npm install -g vuepress
 install:
     - ls -l
 before_script:

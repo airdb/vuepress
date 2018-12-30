@@ -1,5 +1,6 @@
 #!/bin/bash
 
+cp favicon.ico .vuepress/dist
 cd .vuepress/dist || exit -1
 
 echo 'www.airdb.com' > CNAME
