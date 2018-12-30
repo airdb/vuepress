@@ -8,6 +8,8 @@ sidebar: auto
 
 ## 概况
 
+宝贝回家是国内最大的寻人平台，组织成立超过 10 年，[论坛](https://bbs.baobeihuijia.com)累计注册用户数超过 30 万。
+
 ## 论坛
 
 ## 机器人
