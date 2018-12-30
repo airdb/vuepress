@@ -18,7 +18,8 @@ env:
 # cache components
 before_install:
     - env
-    - /usr/bin/npm install -g vuepress
+    - which npm
+    - npm install -g vuepress
 install:
     - ls -l
 before_script:
