@@ -1,7 +1,7 @@
 ---
 home: true
 heroImage: 
-actionText: 了解我们 →
+actionText: Get Started →
 actionLink: /zh-CN/guide/
 footer: MIT Licensed | Copyright © 2018-present Dean
 ---

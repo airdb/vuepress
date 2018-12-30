@@ -9,10 +9,10 @@ module.exports = {
       title: 'airdb 技术公益平台',
       description : '科技让公益更加美好。',
     },
-    '/en-US': {
+    '/en-US/': {
       lang: 'en-US',
-      title: 'WeDocs Documents plantform',
-      description : 'docs',
+      title: 'airdb Tech Welfare',
+      description : 'Best Tech for Best Life.',
     }
   },
   themeConfig : {
@@ -34,13 +34,13 @@ module.exports = {
         },
         sidebarDepth : 2
       },
-      '/en-US': {
+      '/en-US/': {
 		label: 'English',
         selectText: 'Languages',
         lastUpdated: 'LastUpdated',
         search: true,
         searchMaxSuggestions: 10,
-        nav: require('../nav/zh-CN.js'),
+        nav: require('../nav/en-US.js'),
         sidebar: {
             '/zh-CN' : [
                 "/zh-CN/bbhj/",
