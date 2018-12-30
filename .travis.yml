@@ -17,7 +17,7 @@ env:
 
 # cache components
 before_install:
-    - env
+	# - env
     - which npm
     - npm install -g vuepress
 install:
@@ -25,10 +25,10 @@ install:
 before_script:
     - echo "before_script"
 script:
-    # - npm i element-ui -S
     - npm install
     - npm run build
 after_success:
+    - cp favicon.ico ./.vuepress/dist
     - cd ./.vuepress/dist
     - git init
     - git config user.name "${U_NAME}"
