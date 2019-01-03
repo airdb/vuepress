@@ -10,6 +10,7 @@ module.exports = [
           { text: 'Golang 编程基础课', link: '/zh-CN/open/golang/' },
           { text: 'SRE 实践', link: '/zh-CN/open/sre/' },
           { text: 'AI', link: '/zh-CN/open/ai/' },
+          { text: 'AI 学习文档', link: '/zh-CN/open/ai/thing' },
           { text: 'NodeJS', link: '/zh-CN/open/nodejs/' },
         ]
       }
