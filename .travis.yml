@@ -29,6 +29,7 @@ script:
 after_success:
     - cp favicon.ico ./.vuepress/dist
     - cd ./.vuepress/dist
+    - echo 'www.airdb.com' > CNAME
     - git init
     - git config user.name "${U_NAME}"
     - git config user.email "${U_EMAIL}"
