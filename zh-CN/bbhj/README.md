@@ -12,10 +12,22 @@ sidebar: auto
 
 ## 论坛
 
+## 论坛更新记录
+
+[更新日志](/zh-CN/bbhj/changelog.md)
+
+## FAQ
+
+1. 表结构
+
+[Discuz!X/数据库字典](http://wiki.blueidea.com/index.php?title=Discuz!X/数据库字典)
+
 ## 机器人
 
 ## 小程序
+Github 地址: [https://github.com/bbhj/mina](https://github.com/bbhj/mina)   给个小星星，star 一下吧 :)
+
+![小程序](/images/8.jpg)
 
 ## 接口
 
-## FAQ
