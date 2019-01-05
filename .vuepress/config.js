@@ -17,10 +17,11 @@ module.exports = {
   },
   themeConfig : {
     repo: 'airdb/vuepress',
+    editLinks: true,
     docsDir: '.',
     locales: {
       '/': {
-		label: '简体中文',
+	label: '简体中文',
         selectText: '选择语言',
         search: true,
         searchMaxSuggestions: 10,
@@ -35,7 +36,7 @@ module.exports = {
         sidebarDepth : 2
       },
       '/en-US/': {
-		label: 'English',
+	label: 'English',
         selectText: 'Languages',
         lastUpdated: 'LastUpdated',
         search: true,
