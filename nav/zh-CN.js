@@ -1,4 +1,5 @@
 module.exports = [
+  { text: '构建状态', link: '/status/' },
   { text: '宝贝回家', link: '/zh-CN/bbhj/' },
   {
     text: '更多公益',
