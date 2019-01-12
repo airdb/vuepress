@@ -2,7 +2,7 @@ module.exports = [
   { text: '构建状态', link: '/status/' },
   { text: '宝贝回家', link: '/zh-CN/bbhj/' },
   {
-    text: '更多公益',
+    text: '更多',
     items: [
       {
 	text: '代码规范',
@@ -25,7 +25,7 @@ module.exports = [
       {
 	text: '系统初始化',
         items: [
-          { text: 'Mac', link: 'zh-CN/osinit/mac' },
+          { text: 'Mac', link: '/zh-CN/osinit/mac' },
         ]
       }
     ]

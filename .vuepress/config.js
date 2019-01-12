@@ -6,12 +6,12 @@ module.exports = {
   locales: {
     '/': {
       lang: 'zh-CN',
-      title: 'airdb 技术公益平台',
+      title: 'Airdb 技术公益平台',
       description : '科技让公益更加美好。',
     },
     '/en-US/': {
       lang: 'en-US',
-      title: 'airdb Tech Welfare',
+      title: 'Airdb Technical Welfare',
       description : 'Best Tech for Best Life.',
     }
   },
