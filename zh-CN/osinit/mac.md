@@ -11,3 +11,5 @@ sidebar: auto
   brew install wget
   
   brew install nodejs
+  
+  brew install tree
