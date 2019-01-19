@@ -1,6 +1,11 @@
 module.exports = [
   { text: '构建状态', link: '/status/' },
-  { text: '宝贝回家', link: '/zh-CN/bbhj/' },
+  { text: '宝贝回家', 
+    items: [
+      { text: '介绍', link: '/zh-CN/bbhj/'},
+      { text: '管理后台', link: 'https://wechat.baobeihuijia.com'},
+    ]
+  },
   {
     text: '更多',
     items: [
@@ -12,7 +17,7 @@ module.exports = [
         ]
       },
       {
-	text: '技术公开课',
+	text: '技术分享',
         items: [
           { text: 'Linux 系统入门', link: '/zh-CN/open/linux/' },
           { text: 'Golang 编程基础课', link: '/zh-CN/open/golang/' },
