@@ -6,7 +6,7 @@ module.exports = {
   locales: {
     '/': {
       lang: 'zh-CN',
-      title: 'Airdb 技术公益平台',
+      title: 'Airdb',
       description : '科技让公益更加美好。',
     },
     '/en-US/': {

@@ -14,5 +14,8 @@
   },
   "keywords": [],
   "author": "Dean",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "vuepress": "^0.14.8"
+  }
 }
