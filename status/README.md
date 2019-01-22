@@ -14,4 +14,4 @@ sidebar: auto
 [![Build Status](https://travis-ci.org/bbhj/mina.svg?branch=master)](https://travis-ci.org/bbhj/mina)
 
 ## Iview-admin
-[![Build Status](https://travis-ci.org/bbhj/iview-admin.svg?branch=master)](https://travis-ci.org/bbhj/iview-admin)
+[![Build Status](https://travis-ci.org/airdb/iview-admin.svg?branch=master)](https://travis-ci.org/airdb/iview-admin)
