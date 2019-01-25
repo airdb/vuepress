@@ -17,4 +17,8 @@ sidebar: auto
    npm  config set registry  https://registry.npm.taobao.org
 
 ## 常用模块介绍
+
+    npm install vue-cli -g
+
+
  
