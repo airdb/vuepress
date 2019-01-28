@@ -6,4 +6,4 @@ sidebar: auto
 
 ## 
 
-I had lived in Beijing for more than 3 years. 
+~~I had lived in Beijing for more than 3 years.~~
