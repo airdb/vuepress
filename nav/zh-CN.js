@@ -27,7 +27,7 @@ module.exports = [
         items: [
           { text: 'Linux 系统入门', link: '/zh-CN/open/linux/' },
           { text: 'Golang 编程基础课', link: '/zh-CN/open/golang/' },
-          { text: 'SRE 实践', link: '/zh-CN/open/sre/' },
+          { text: 'SRE Books(英文)', link: 'https://landing.google.com/sre/books/' },
           { text: 'AI', link: '/zh-CN/open/ai/' },
           { text: 'AI 学习文档', link: '/zh-CN/open/ai/thing' },
           { text: 'NodeJS', link: '/zh-CN/open/nodejs/' },
