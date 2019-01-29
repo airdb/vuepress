@@ -1,9 +1,14 @@
 module.exports = [
   { text: '构建状态', link: '/status/' },
-  { text: '宝贝回家', 
+  { text: '维护项目', 
     items: [
-      { text: '介绍', link: '/zh-CN/bbhj/'},
-      { text: '管理后台', link: 'https://wechat.baobeihuijia.com'},
+      {
+        text: '宝贝回家',
+        items: [
+          { text: '介绍', link: '/zh-CN/bbhj/'},
+          { text: '管理后台', link: 'https://wechat.baobeihuijia.com'},
+        ]
+      }
     ]
   },
   {
