@@ -32,3 +32,7 @@ sudo scutil --set HostName 新的主机名
   diskutil info disk1s1
 
   diskutil rename oldname  newname
+
+## Mac下解决LC_CTYPE警告的最简单方法
+
+  [terminal 去掉set locale environment](https://jingyan.baidu.com/article/fdbd4277c564c8b89e3f48eb.html)
