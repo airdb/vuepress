@@ -19,8 +19,13 @@ sidebar: auto
 
 ## 常用模块介绍
 
-    npm install vue-cli -g
-    
+    npm install -g @vue/cli
+    npm install less
+    npm install less-loader
+    npm install vue-loader
+    npm install vue-router
+    npm install vuex axios iview js-cookie
+
 ## assets与static的区别
 
 ~~~
