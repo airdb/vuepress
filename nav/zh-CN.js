@@ -14,6 +14,7 @@ module.exports = [
         items: [
           { text: '中文文案排版规范', link: '/zh-CN/code-style/document' },
           { text: 'Golang 代码规范', link: '/zh-CN/code-style/' },
+          { text: 'emoji 表情列表', link: '/zh-CN/code-style/emoji-list' },
         ]
       },
       {
