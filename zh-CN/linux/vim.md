@@ -10,7 +10,7 @@ vundle 搭建很方便
 
 4. 如果还需要其他插件，可以使用BundleSearch 进行在线查找插件
 
-## .vimrc
+## 配置文件内容
 
 	filetype off
 	syntax on
