@@ -2,6 +2,7 @@ module.exports = {
   head: [
 	['link', {rel: 'icon', href: `/favicon.ico`}]
   ],
+  ga: 'UA-133539351-1',
   base : '/',
   locales: {
     '/': {
