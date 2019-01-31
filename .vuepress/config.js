@@ -29,7 +29,7 @@ module.exports = {
         lastUpdated: '上次更新',
         nav: require('../nav/zh-CN.js'),
         sidebar: {
-            '/zh-CN/linux/': getLinuxSidebar('xxx1', 'xx2')
+            '/zh-CN/linux/': getLinuxSidebar('Part 1', 'Part 2')
         }
       },
       '/en-US/': {
