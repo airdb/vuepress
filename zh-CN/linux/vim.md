@@ -1,7 +1,3 @@
----
-sidebar: auto
----
-
 # vim
 
 vundle 搭建很方便

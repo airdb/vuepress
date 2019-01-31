@@ -1,8 +1,4 @@
----
-sidebar: auto
----
-
-# vim
+# nginx
 
 vundle 搭建很方便
 

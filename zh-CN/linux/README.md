@@ -1,8 +1,3 @@
----
-sidebar: auto
----
+# first read me
 
-# sider bar sys1
-
-
-## 201812
+## aa

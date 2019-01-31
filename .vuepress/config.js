@@ -22,22 +22,18 @@ module.exports = {
     docsDir: '.',
     locales: {
       '/': {
-	label: '简体中文',
+	    label: '简体中文',
         selectText: '选择语言',
         search: true,
         searchMaxSuggestions: 10,
         lastUpdated: '上次更新',
         nav: require('../nav/zh-CN.js'),
         sidebar: {
-            '/' : [
-                "/zh-CN/bbhj/",
-                "/zh-CN/open/",
-            ]
-        },
-        sidebarDepth : 2
+            '/zh-CN/linux/': getLinuxSidebar('xxx1', 'xx2')
+        }
       },
       '/en-US/': {
-	label: 'English',
+	    label: 'English',
         selectText: 'Languages',
         lastUpdated: 'LastUpdated',
         search: true,
@@ -53,4 +49,26 @@ module.exports = {
       }
     }
   }
+}
+
+
+function getLinuxSidebar (groupA, groupB) {
+  return [
+    {
+      title: groupA,
+      collapsable: false,
+      children: [
+        '',
+        'vim',
+      ]
+    },
+    {
+      title: groupB,
+      collapsable: false,
+      children: [
+        'nginx',
+        'dhcp',
+      ]
+    }
+  ]
 }
