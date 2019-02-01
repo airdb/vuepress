@@ -29,7 +29,7 @@ module.exports = {
         lastUpdated: '上次更新',
         nav: require('../nav/zh-CN.js'),
         sidebar: {
-            '/zh/linux/': getLinuxSidebar('Part 1', 'Part 2')
+            '/zh/linux/': getLinuxSidebar('Part 1: Base Skills', 'Part 2: Base Service')
         }
       },
       '/en-US/': {
@@ -72,6 +72,18 @@ function getLinuxSidebar (groupA, groupB) {
       children: [
         'nginx',
         'dhcp',
+      ]
+    },
+    {
+      title: 'Part 3: Linux Performance',
+      collapsable: false,
+      children: [
+      ]
+    },
+    {
+      title: 'Part 4: Linux Monitor',
+      collapsable: false,
+      children: [
       ]
     }
   ]
