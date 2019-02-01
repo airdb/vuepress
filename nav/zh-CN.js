@@ -1,6 +1,6 @@
 module.exports = [
   { text: '构建状态', link: '/status/' },
-  { text: '维护项目', 
+  { text: '维护项目',
     items: [
       {
         text: '宝贝回家',

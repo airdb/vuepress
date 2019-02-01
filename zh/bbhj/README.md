@@ -15,7 +15,7 @@ sidebar: auto
 
 ## 论坛更新记录
 
-[更新日志](/zh-CN/bbhj/changelog.md)
+[更新日志](/zh/bbhj/changelog.md)
 
 ## FAQ
 
