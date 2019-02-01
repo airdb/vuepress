@@ -59,6 +59,7 @@ function getLinuxSidebar (groupA, groupB) {
       collapsable: false,
       children: [
         '',
+        'bash',
         'vim',
       ]
     },
