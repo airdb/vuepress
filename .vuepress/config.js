@@ -60,6 +60,7 @@ function getLinuxSidebar (groupA, groupB) {
       children: [
         '',
         'bash',
+        'bash-prog',
         'vim',
       ]
     },

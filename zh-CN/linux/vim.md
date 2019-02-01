@@ -1,4 +1,4 @@
-# vim
+# VIM
 
 vundle 搭建很方便
 
@@ -27,18 +27,18 @@ vundle 搭建很方便
 	Plugin 'Tabular'
 	call vundle#end()
 	filetype plugin indent on     " required
-	
+
 	" 打开自动定位到最后编辑的位置, 需要确认.viminfo当前用户可写
 	if has("autocmd")
 	    au BufReadPost * if line("'\"") > 1 && line("'\"") <= line("$") | exe "normal! g'\"" | endif
 	endif
-	
-	" 快捷键 
+
+	" 快捷键
 	map <C-h> <C-w><C-h>
 	map <C-j> <C-w><C-j>
 	map <C-l> <C-w><C-l>
 	map <C-k> <C-w><C-k>
-	
+
 	"<F2>设置是否显示行号
 	nnoremap <silent> <F2> :set number!<CR>
 	"空格打开关闭折叠
