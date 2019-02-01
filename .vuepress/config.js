@@ -56,7 +56,7 @@ function getLinuxSidebar() {
   return [
     {
       title: 'Part 1: Base Skills',
-      collapsable: false,
+      collapsable: true,
       children: [
         '',
         'bash',
@@ -68,7 +68,7 @@ function getLinuxSidebar() {
     },
     {
       title: 'Part 2: Base Service',
-      collapsable: false,
+      collapsable: true,
       children: [
         'nginx',
         'dhcp',
@@ -76,13 +76,13 @@ function getLinuxSidebar() {
     },
     {
       title: 'Part 3: Linux Performance',
-      collapsable: false,
+      collapsable: true,
       children: [
       ]
     },
     {
       title: 'Part 4: Linux Monitor',
-      collapsable: false,
+      collapsable: true,
       children: [
       ]
     }
