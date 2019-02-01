@@ -8,7 +8,7 @@ vundle 搭建很方便
 
 3. 打开vim在底行模式下输入 BundleInstall
 
-4. 如果还需要其他插件，可以使用BundleSearch 进行在线查找插件
+4. 如果还需要其他插件，可以使用 BundleSearch 进行在线查找插件
 
 ## 配置文件内容
 

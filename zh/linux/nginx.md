@@ -1,6 +1,6 @@
 # Nginx
 
-## Nginx 公共配置
+## 公共配置
 
 说明：
     conf/nginx.conf 中存放在公共配置中，
@@ -27,7 +27,7 @@ http {
     include       /etc/nginx/mime.types;
     default_type  application/octet-stream;
 
-    #log_format  main  '$remote_addr - $host [$time_local] "$request" ' '$status $body_bytes_sent "$http_referer" ' '"$http_user_agent" "$http_x_forwarded_for"'; 
+    #log_format  main  '$remote_addr - $host [$time_local] "$request" ' '$status $body_bytes_sent "$http_referer" ' '"$http_user_agent" "$http_x_forwarded_for"';
     log_format  main '$time_iso8601|$status|$remote_addr|$host|$server_port|$server_protocol|$request_method|$host$request_uri|$request_filename|$content_type|$bytes_sent|$body_bytes_sent|$request_time|$http_user_agent|$http_Tencent_LeakScan|$upstream_addr|$http_referer';
     error_log logs/error.log;
 
@@ -36,7 +36,7 @@ http {
     server_names_hash_max_size 512;
     server_names_hash_bucket_size 128;
 
-    server_tokens off; 
+    server_tokens off;
     sendfile       on;
     tcp_nopush     off;
     tcp_nodelay    on;
@@ -66,7 +66,7 @@ http {
     proxy_set_header   X-Real-IP        $remote_addr;
     proxy_set_header   X-Forwarded-For  $proxy_add_x_forwarded_for;
     proxy_intercept_errors on;
-    proxy_redirect off; 
+    proxy_redirect off;
     port_in_redirect off;
 
     # Load modular configuration files from the /etc/nginx/conf.d directory.
@@ -88,5 +88,5 @@ http {
     proxy_set_header latitude $ipip_latitude;
     proxy_set_header longitude $ipip_longitude;
 }
-~~~
+```
 

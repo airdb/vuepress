@@ -62,6 +62,7 @@ function getLinuxSidebar (groupA, groupB) {
         'bash',
         'bash-prog',
         'vim',
+        'ssh',
       ]
     },
     {
