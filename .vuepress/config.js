@@ -29,7 +29,7 @@ module.exports = {
         lastUpdated: '上次更新',
         nav: require('../nav/zh-CN.js'),
         sidebar: {
-            '/zh/linux/': getLinuxSidebar('Part 1: Base Skills', 'Part 2: Base Service')
+            '/zh/linux/': getLinuxSidebar()
         }
       },
       '/en-US/': {
@@ -52,10 +52,10 @@ module.exports = {
 }
 
 
-function getLinuxSidebar (groupA, groupB) {
+function getLinuxSidebar() {
   return [
     {
-      title: groupA,
+      title: 'Part 1: Base Skills',
       collapsable: false,
       children: [
         '',
@@ -67,7 +67,7 @@ function getLinuxSidebar (groupA, groupB) {
       ]
     },
     {
-      title: groupB,
+      title: 'Part 2: Base Service',
       collapsable: false,
       children: [
         'nginx',
