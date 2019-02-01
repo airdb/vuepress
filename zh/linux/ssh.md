@@ -32,4 +32,7 @@ PermitRootLogin yes             # 允许root用户远程登录
 
 如果目标机器无法 ssh，可以使用 -v 参数排查详情。
 
+::: warning
 个别主机，可能会设置 /etc/hosts.allow 或 /etc/hosts.deny。
+:::
+

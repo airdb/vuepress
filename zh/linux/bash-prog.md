@@ -23,7 +23,9 @@ set +x
 说明： PS4 The value of this parameter is expanded as with PS1 and the value is printed before each command bash displays during an execution trace. The first character of PS4 is replicated multiple times, as neces-sary, to indicate multiple levels of indirection. The default is ”+ ”.
 
 
-tips: 日志输出
+::: tip
+日志输出
+
 ```
 _log() {
     if [ "$_DEBUG" == "true" ]; then
@@ -32,3 +34,4 @@ _log() {
 }
 
 ```
+:::
