@@ -1,7 +1,3 @@
----
-sidebar: auto
----
-
 # 宝贝回家
 [![Build Status](https://travis-ci.org/airdb/vuepress.svg?branch=master)](https://travis-ci.org/airdb/vuepress.svg?branch=master)
 

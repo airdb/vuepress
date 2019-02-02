@@ -32,7 +32,8 @@ module.exports = {
         lastUpdated: '上次更新',
         nav: require('../nav/zh-CN.js'),
         sidebar: {
-            '/zh/linux/': getLinuxSidebar()
+            '/zh/linux/': getLinuxSidebar(),
+            '/zh/bbhj/': getBbhjSidebar()
         }
       },
       '/en-US/': {
@@ -87,6 +88,32 @@ function getLinuxSidebar() {
       title: 'Part 4: Linux Monitor',
       collapsable: true,
       children: [
+      ]
+    }
+  ]
+}
+
+function getBbhjSidebar() {
+  return [
+    {
+      title: 'Part 1: 项目介绍',
+      collapsable: true,
+      children: [
+        ''
+      ]
+    },
+    {
+      title: 'Part 2: 服务部署',
+      collapsable: true,
+      children: [
+        'bbs-deploy'
+      ]
+    },
+    {
+      title: 'Part 3: 工作计划',
+      collapsable: true,
+      children: [
+        'nginx',
       ]
     }
   ]
