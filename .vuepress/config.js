@@ -113,7 +113,6 @@ function getBbhjSidebar() {
       title: 'Part 3: 工作计划',
       collapsable: true,
       children: [
-        'nginx',
       ]
     }
   ]
