@@ -34,6 +34,7 @@ module.exports = {
         sidebar: {
             '/zh/linux/': getLinuxSidebar(),
             '/zh/bbhj/': getBbhjSidebar(),
+            '/zh/algorithm/': getAlgorithmSidebar(),
             '/zh/english/': getEnglishSidebar()
         }
       },
@@ -114,6 +115,25 @@ function getBbhjSidebar() {
       title: 'Part 3: 工作计划',
       collapsable: true,
       children: [
+      ]
+    }
+  ]
+}
+
+function getAlgorithmSidebar() {
+  return [
+    {
+      title: '算法',
+      collapsable: true,
+      children: [
+        ''
+      ]
+    },
+    {
+      title: '排序算法',
+      collapsable: true,
+      children: [
+        'level3/unit3/part1/life-and-conditions-2'
       ]
     }
   ]
