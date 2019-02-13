@@ -133,7 +133,7 @@ function getAlgorithmSidebar() {
       title: '排序算法',
       collapsable: true,
       children: [
-        'level3/unit3/part1/life-and-conditions-2'
+        ''
       ]
     }
   ]
