@@ -33,7 +33,8 @@ module.exports = {
         nav: require('../nav/zh-CN.js'),
         sidebar: {
             '/zh/linux/': getLinuxSidebar(),
-            '/zh/bbhj/': getBbhjSidebar()
+            '/zh/bbhj/': getBbhjSidebar(),
+            '/zh/english/': getEnglishSidebar()
         }
       },
       '/en-US/': {
@@ -111,6 +112,31 @@ function getBbhjSidebar() {
     },
     {
       title: 'Part 3: 工作计划',
+      collapsable: true,
+      children: [
+      ]
+    }
+  ]
+}
+
+function getEnglishSidebar() {
+  return [
+    {
+      title: 'Overview',
+      collapsable: true,
+      children: [
+        ''
+      ]
+    },
+    {
+      title: 'Level 3',
+      collapsable: true,
+      children: [
+        'level3/unit3/part1/life-and-conditions-2'
+      ]
+    },
+    {
+      title: 'Level 4',
       collapsable: true,
       children: [
       ]
