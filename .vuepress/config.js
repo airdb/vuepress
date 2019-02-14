@@ -152,7 +152,8 @@ function getEnglishSidebar() {
       title: 'Level 3',
       collapsable: true,
       children: [
-        'level3/unit3/part1/life-and-conditions-2'
+        'level3/unit3/part1/life-and-conditions-2',
+        'level3/unit3/part1/forms-of-life'
       ]
     },
     {
