@@ -34,3 +34,12 @@ A. she realized
 B. has she realized
 C. she has realized
 D. did she realize
+
+������正确答案: D
+
+解析
+only修饰状语从句时句子部分倒装，再根据状语从句判断主句也应为一般过去时，故选项D符合答案。注意到only在句首，并且时态保持一致，用did she realize
+
+Kaylyn������陪你度过最美好的时光～:
+[动画表情]
+
