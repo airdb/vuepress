@@ -157,9 +157,10 @@ function getEnglishSidebar() {
       ]
     },
     {
-      title: 'Level 4',
+      title: 'Daily Question',
       collapsable: true,
       children: [
+        'daily-question/02/week07'
       ]
     }
   ]
