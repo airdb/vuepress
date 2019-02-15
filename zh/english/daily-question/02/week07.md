@@ -53,3 +53,19 @@ Today's Question
 -- Sure.
 A. sometime      B. sometimes
 C. some time     D some times
+
+
+答案为A
+--你下周某时候可以给我们做个演讲吗？--当然可以。此题考查单词，词组辨析。sometime意为“某时”，表示某一个不确定的时间，根据句意，选A。
+
+sometimes  有时 
+-- How often do you write to your father? 你多久给你父亲写一次信？
+-- Sometimes. 有时。
+
+ some time  一段时间 
+ -- How long can I be away? 我能离开多久？
+ -- Some time. 一段时间。
+
+ some times  几次（倍） 
+ -- How many times do you watch TV every week? 你每周看几次电视？
+ -- Some times. 好几次。
