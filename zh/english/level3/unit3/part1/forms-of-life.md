@@ -21,3 +21,12 @@ Some insects, like mosquitoes, spread diseases that casuse the deaths of many hu
 Unlike animals, plants get the energy that they need from the sun.
 
 Plants convert light energy, along with carbon-dioxide and water, into chemical energy.
+
+
+Reading:
+
+Mammals include some of the most intelligent animals on Earth, such as elephants and human beings.
+
+Mosquitoes cause the deaths of more humans than any other animal.
+
+Some insects, like mosquitoes spread diseases that cause the deaths of many humans.
