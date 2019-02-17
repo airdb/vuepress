@@ -19,7 +19,7 @@ D. ever since
 
 ������ 句意:只要你保持练习，就不会觉得剪纸很难。故选项B符合答案。
 
-## 2.14早安问候 morning~
+## 2.14早安问候 Happy Valentine's Day
 
  We all have our own life to pursue, our own kind of dream to be weaving, and we all have the power to make wishes come true, as long as we keep believing.  
 我们都有自己要追求的人生，自己要编织的梦想，我们都有能力实现愿望，只要我们持续相信。——Louisa May Alcott
@@ -43,3 +43,29 @@ only修饰状语从句时句子部分倒装，再根据状语从句判断主句�
 Kaylyn������陪你度过最美好的时光～:
 [动画表情]
 
+
+## Morning 2.15
+There's nothing enlightened about shrinking so that other people won't feel insecure around you. We are all meant to shine, as children do. 缩小自己好让他人不会感到不安，一点都不明智，我们都应该像小孩般闪闪发亮。
+
+
+Today's Question
+-- Would you like to give us a talk _______ next week?
+-- Sure.
+A. sometime      B. sometimes
+C. some time     D some times
+
+
+答案为A
+--你下周某时候可以给我们做个演讲吗？--当然可以。此题考查单词，词组辨析。sometime意为“某时”，表示某一个不确定的时间，根据句意，选A。
+
+sometimes  有时 
+-- How often do you write to your father? 你多久给你父亲写一次信？
+-- Sometimes. 有时。
+
+ some time  一段时间 
+ -- How long can I be away? 我能离开多久？
+ -- Some time. 一段时间。
+
+ some times  几次（倍） 
+ -- How many times do you watch TV every week? 你每周看几次电视？
+ -- Some times. 好几次。
