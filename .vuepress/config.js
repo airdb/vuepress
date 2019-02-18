@@ -33,7 +33,9 @@ module.exports = {
         nav: require('../nav/zh-CN.js'),
         sidebar: {
             '/zh/linux/': getLinuxSidebar(),
-            '/zh/bbhj/': getBbhjSidebar()
+            '/zh/bbhj/': getBbhjSidebar(),
+            '/zh/algorithm/': getAlgorithmSidebar(),
+            '/zh/english/': getEnglishSidebar()
         }
       },
       '/en-US/': {
@@ -114,6 +116,53 @@ function getBbhjSidebar() {
       collapsable: true,
       children: [
         'changelog'
+      ]
+    }
+  ]
+}
+
+function getAlgorithmSidebar() {
+  return [
+    {
+      title: '算法',
+      collapsable: true,
+      children: [
+        ''
+      ]
+    },
+    {
+      title: '排序算法',
+      collapsable: true,
+      children: [
+        ''
+      ]
+    }
+  ]
+}
+
+function getEnglishSidebar() {
+  return [
+    {
+      title: 'Overview',
+      collapsable: true,
+      children: [
+        ''
+      ]
+    },
+    {
+      title: 'Level 3',
+      collapsable: true,
+      children: [
+        'level3/unit3/part1/life-and-conditions-2',
+        'level3/unit3/part1/forms-of-life'
+      ]
+    },
+    {
+      title: 'Daily Question',
+      collapsable: true,
+      children: [
+        'daily-question/02/week07',
+        'daily-question/02/week08'
       ]
     }
   ]
