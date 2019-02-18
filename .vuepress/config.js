@@ -160,7 +160,7 @@ function getEnglishSidebar() {
       title: 'Daily Question',
       collapsable: true,
       children: [
-        'daily-question/02/week07'
+        'daily-question/02/week07',
         'daily-question/02/week08'
       ]
     }
