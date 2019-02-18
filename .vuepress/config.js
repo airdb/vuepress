@@ -110,9 +110,10 @@ function getBbhjSidebar() {
       ]
     },
     {
-      title: 'Part 3: 工作计划',
+      title: 'Part 3: 更新日志',
       collapsable: true,
       children: [
+        'changelog'
       ]
     }
   ]

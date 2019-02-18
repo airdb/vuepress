@@ -17,7 +17,7 @@ sidebar: auto
 说明：新 Discuz X3.4 集成了 uc-center, 所以配置路径不需要加/uc_center。 在页面可以抓到访问的地址是 https://bbs.example.com/api/./uc.php
 
 处理方法：
-	1. uc_server/data/config.inc.php 中增加编码配置 define('CHARSET', 'utf-8'); 
+	1. uc_server/data/config.inc.php 中增加编码配置 define('CHARSET', 'utf-8');
 	2. ucenter -> UCenter 设置 -> 检查 uc key 是否合法(与config_ucenter.php是否相同)， 确认后提交即可。
 
 参考：https://jingyan.baidu.com/article/48b37f8d4745c21a646488a0.html
@@ -41,7 +41,7 @@ sidebar: auto
 
 ## 4. 乱码问题
 
-1. uc_server/data/config.inc.php 中增加编码配置 define('CHARSET', 'utf-8'); 
+1. uc_server/data/config.inc.php 中增加编码配置 define('CHARSET', 'utf-8');
 
 2. default/forum/discuz.htm newsetuser 显示乱码，暂时屏蔽了。后面找时间看。
 
@@ -108,10 +108,12 @@ $file = $ucenterurl_s.'/data/avatar/'.$dir1.'/'.$dir2.'/'.$dir3.'/'.substr($uid,
 
 注意： 修复 pre_common_member 有可能会影响论坛贴子, 或修复不彻底问题。
 
-本次操作两名用户：婧薇(pre_ucenter_members 数据丢失)，水质的流苏(pre_common_member 数据丢失) 
+本次操作两名用户：婧薇(pre_ucenter_members 数据丢失)，水质的流苏(pre_common_member 数据丢失)
 insert into pre_ucenter_members(uid,username,password,email,regip,regdate,salt) values() ;
 
-insert into  pre_common_member(uid, email, username, password, regdate ) values() ; 
+insert into  pre_common_member(uid, email, username, password, regdate ) values() ;
+
+绕月的云( pre_ucenter_members 数据丢失)
 
 ## 11. Discuz!您当前的访问请求当中含有非法字符，已经被系统拒绝解决办法
 
