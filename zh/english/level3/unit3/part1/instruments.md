@@ -6,7 +6,7 @@ Scales and rulers are used to measure weight and length.
 
 Units of weight include kilograms and pounds, and units of length include centimeters and inches.
 
-There instruments are used to observe very large and very small objects.
+This instruments are used to observe very large and very small objects.
 
 Telescopes are used by astronomers, and microscopes are used by biologists and doctors.
 
