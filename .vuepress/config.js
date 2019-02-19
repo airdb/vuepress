@@ -34,7 +34,7 @@ module.exports = {
         sidebar: {
             '/zh/linux/': getLinuxSidebar(),
             '/zh/bbhj/': getBbhjSidebar(),
-            '/zh/algorithm/': getAlgorithmSidebar(),
+            '/zh/open/ai/': getAlgorithmSidebar(),
             '/zh/english/': getEnglishSidebar()
         }
       },
@@ -131,10 +131,17 @@ function getAlgorithmSidebar() {
       ]
     },
     {
-      title: '排序算法',
+      title: '基础算法',
       collapsable: true,
       children: [
-        ''
+        'sort'
+      ]
+    },
+    {
+      title: '机器学习相关',
+      collapsable: true,
+      children: [
+        'thing'
       ]
     }
   ]
