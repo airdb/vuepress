@@ -1,4 +1,4 @@
-# Feb 2019
+# Week 08
 
 ## 2.18早安问候 Morning!
 
@@ -42,3 +42,31 @@ any
 other的用法，是指在同一范围内除了某人或某物以外的其他人或事物，后跟单数名词。如果把New
 Zealand换成China, 则选择A，需要把它本身排除在外。
 你有没有上当呢？[Smirk]
+
+
+## 2.20早安问侯morning～[太阳]
+
+Everybody has difficult years, but a lot of times the difficult years end up
+being the greatest years of your whole life, if you survive them.
+每个人都有艰难的岁月。但大多数时候，这些艰难的岁月最后会变成整个生命中最精彩的日子，只要你能挺过来。——Brittany
+Murphy
+
+ 🎈 Many businesses started up by college students have ________ thanks to the
+ comfortable climate for business creation.
+ A. fallen off
+ B. taken off
+ C. turned off
+ D. left off
+
+ 答案来啦💪💪💪
+ 🎓 正确答案
+ B
+
+ 🌸 解析：
+ “fall off 衰败”；
+ “take off 良好发展”；
+ “turn off 避开，改变方向”；
+ “leave off 停止”。
+
+ 从题目分析，后半句为多亏了良好的商业创新气氛，因此前半句应为良好气氛所产生的良好结果，结合选项分析，意思应为大学生做的很多生意已经迅速发展起来。
+ 故选B。

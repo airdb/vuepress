@@ -1,4 +1,4 @@
-# Feb 2019
+# Week 07
 
 ## 2.13 早安问候
 When I was young，I wanted to be anybody but myself. I would have to accept myself, my warts and all. 当我年轻的时候，我想成为除我以外的任何人。但我必须接受我自己，我的缺点，我的一切。--《玛丽和马克思》
@@ -10,7 +10,7 @@ B. as long as
 C. as if
 D. ever since
 
- 正确答案B 
+ 正确答案B
  解析
  even though虽然，
  as long as只要，
@@ -21,11 +21,11 @@ D. ever since
 
 ## 2.14早安问候 Happy Valentine's Day
 
- We all have our own life to pursue, our own kind of dream to be weaving, and we all have the power to make wishes come true, as long as we keep believing.  
+ We all have our own life to pursue, our own kind of dream to be weaving, and we all have the power to make wishes come true, as long as we keep believing. 
 我们都有自己要追求的人生，自己要编织的梦想，我们都有能力实现愿望，只要我们持续相信。——Louisa May Alcott
 
 好了，让我们快去看看今天的选择题吧
-  
+
 
 每日一问 Today's question
 
@@ -58,14 +58,14 @@ C. some time     D some times
 答案为A
 --你下周某时候可以给我们做个演讲吗？--当然可以。此题考查单词，词组辨析。sometime意为“某时”，表示某一个不确定的时间，根据句意，选A。
 
-sometimes  有时 
+sometimes  有时
 -- How often do you write to your father? 你多久给你父亲写一次信？
 -- Sometimes. 有时。
 
- some time  一段时间 
+ some time  一段时间
  -- How long can I be away? 我能离开多久？
  -- Some time. 一段时间。
 
- some times  几次（倍） 
+ some times  几次（倍）
  -- How many times do you watch TV every week? 你每周看几次电视？
  -- Some times. 好几次。
