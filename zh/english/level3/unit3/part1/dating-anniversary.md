@@ -26,7 +26,7 @@ W: So you did remember.
 
 M: Of course, I remembered. It's a very specail day for both of us?
 
-W: I have some for you, too.
+W: I have something for you too.
 
 M: You do?
 
@@ -36,15 +36,15 @@ M: Oh, I can't wait. Tell me what this.
 
 W: Can you guess what is?
 
-M: Could you give me a hit?
+M: Could you give me a hint?
 
 W: We Went there 6 months ago.
 
-M: Oh, you mean freedoms?
+M: Oh, you mean Freedoms?
 
 W: Are you excited? You said you realy like the foods there.
 
-M: Yes, that's true. I also remember the desert, do you?
+M: Yes, that's true. I also remember the dessert, do you?
 
 W: Yes, but let's not talk about that now. 
 
