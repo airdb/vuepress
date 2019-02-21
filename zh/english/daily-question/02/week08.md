@@ -70,3 +70,22 @@ Murphy
 
  从题目分析，后半句为多亏了良好的商业创新气氛，因此前半句应为良好气氛所产生的良好结果，结合选项分析，意思应为大学生做的很多生意已经迅速发展起来。
  故选B。
+
+## Morning 2.21[太阳]
+This is the mark of a really admirable man: steadfastness in the face of
+trouble. 令人敬仰的人有一个特色：面对困难时仍不屈不挠。
+
+⌛周四啦~开启一天努力的工作和学习☺
+
+ 👇Today's Question
+Japan is _____ the east of China.
+A. in     B. on    C. to    D. at
+
+
+日本位于中国东部。此题考查介词搭配。拿east举个栗子👇
+👉in/at the east of 在......
+的东边(部)，通常指某一范围之内（at比较少用，普遍用in）
+👉on the east  of 在...... 东面，强调两者毗邻，接攘。（例如湖南和湖北）
+👉to the east of 在……在东边，强调越出了某一范围，不接壤。（例如中国和日本）
+
+日本在中国东面，且与中国国土并不接壤，故选C。
