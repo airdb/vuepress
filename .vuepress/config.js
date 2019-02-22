@@ -84,6 +84,7 @@ function getLinuxSidebar() {
       title: 'Part 3: Linux Performance',
       collapsable: true,
       children: [
+        'monitor'
       ]
     },
     {
