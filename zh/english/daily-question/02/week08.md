@@ -89,3 +89,22 @@ A. in     B. on    C. to    D. at
 👉to the east of 在……在东边，强调越出了某一范围，不接壤。（例如中国和日本）
 
 日本在中国东面，且与中国国土并不接壤，故选C。
+
+## 2.22 早安问候☀
+When your talent cannot support your ambition,you should get down to learning.
+当你的才华还撑不起你的野心的时候，你就应该静下心来学习。[爱心]
+Today's question👇
+
+Niki is always full of ideas, but_______ is useful to my knowledge.
+A. nothing
+B. no one
+C. neither
+D. none
+
+🏆正确答案D🏆
+👼解析:“Niki总有很多点子，但据我所知没一个有用。”
+🌺A.“什么也没有”与题干is always full of ideas冲突，排除。
+🌺B只能指人，排除。
+🌺C用于两者之间的否定，排除。
+🌺D既可指人也可指物，表三者（以上）的全部否定。同时none暗含有一定范围，与题干Niki
+is always full of ideas所表范围暗合，故当选。
