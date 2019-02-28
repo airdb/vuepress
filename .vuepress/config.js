@@ -165,7 +165,10 @@ function getEnglishSidebar() {
         'level3/unit3/part1/forms-of-life',
         'level3/unit3/part1/instruments',
         'level3/unit3/part1/dating-anniversary',
-        'level3/unit3/part1/fine-dining'
+        'level3/unit3/part1/fine-dining',
+        'level3/unit3/part2/QuickServe-1.md',
+        'level3/unit3/part2/QuickServe-2.md',
+        'level3/unit3/part2/Sciences.md'
       ]
     },
     {
