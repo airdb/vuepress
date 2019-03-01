@@ -39,9 +39,7 @@ AirPay
 
 In fact, chinese mainland aslo have the service, like jd, alibaba, etc...
 
-
-
-Q： Can you sell yourself in two minutes？ Go for it.
+Q：Can you sell yourself in two minutes？ Go for it.
  （你能在两分钟内自我推 荐吗？大胆试试吧！） 
 
 A： With my qualifications and experience, I feel I am hardworking, responsible and diligent in any project I undertake.
@@ -110,3 +108,6 @@ a typical career path for someone with my skills and experiences?
 7.没有把你的申请材料发在手边
 
 8.允许自己分心
+
+
+https://www.w3cschool.cn/xca2dq/8wd212h4.html
