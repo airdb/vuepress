@@ -1,4 +1,4 @@
-# Unit 3 Part 1 - Sciences
+# Unit 3 Part 2 - Sciences
 
 ## Segment 1
 

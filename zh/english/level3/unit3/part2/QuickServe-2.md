@@ -1,4 +1,4 @@
-# Unit 3 Part 1 - QuickServe 2
+# Unit 3 Part 2 - QuickServe 2
 
 ## Segment 1
 
