@@ -166,9 +166,11 @@ function getEnglishSidebar() {
         'level3/unit3/part1/instruments',
         'level3/unit3/part1/dating-anniversary',
         'level3/unit3/part1/fine-dining',
-        'level3/unit3/part2/QuickServe-1.md',
-        'level3/unit3/part2/QuickServe-2.md',
-        'level3/unit3/part2/Sciences.md'
+        'level3/unit3/part2/QuickServe-1',
+        'level3/unit3/part2/QuickServe-2',
+        'level3/unit3/part2/Sciences',
+        'level3/unit3/part2/Desk-Assembly',
+        'level3/unit3/part2/Life-and-the-Universe'
       ]
     },
     {
