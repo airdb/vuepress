@@ -170,7 +170,9 @@ function getEnglishSidebar() {
         'level3/unit3/part2/QuickServe-2',
         'level3/unit3/part2/Sciences',
         'level3/unit3/part2/Desk-Assembly',
-        'level3/unit3/part2/Life-and-the-Universe'
+        'level3/unit3/part2/Life-and-the-Universe',
+        'level3/unit3/part3/Harry\'s-Business-Trip-1',
+        'level3/unit3/part3/Harry\'s-Business-Trip-2'
       ]
     },
     {
