@@ -20,3 +20,13 @@ The secretary worked late into night, ________ a long speech for the president.
 👉C．prepared
 👉D．was preparing
 
+## Wed 【今日小题】
+______ along the quiet road at forty miles an hour, and then an old man suddenly
+started to cross the road in front of me.
+👉A．Driving
+👉B．Having driven
+👉C．I was driving
+👉D．When I was driving
+今天的题目有小陷阱哈
+
+本题考查句子时态的使用。这是一个and引导的主从复合句。前面的部分是一个完整的句子，所以要有主语和谓语。并且不需要连词再来连接。且由这个句子判断可知，前面的主句是一个过去进行时态。句意：当我正在安静的街道上以每小时40公里的时速行驶时，一位老人突然在我面前闯过马路。故选C。
