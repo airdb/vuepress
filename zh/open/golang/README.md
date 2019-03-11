@@ -24,3 +24,6 @@ M代表着真正的执行计算资源。在绑定有效的p后，进入schedule�
 
 ![](/images/goroutine-scheduler-model.png "goroutine")
 
+Plugin 热更新问题
+https://github.com/campoy/golang-plugins
+
