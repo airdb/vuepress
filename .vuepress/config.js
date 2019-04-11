@@ -118,6 +118,13 @@ function getBbhjSidebar() {
       children: [
         'changelog'
       ]
+    },
+    {
+      title: 'Part 4: 孵化项目',
+      collapsable: true,
+      children: [
+        'new-project'
+      ]
     }
   ]
 }
