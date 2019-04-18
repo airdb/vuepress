@@ -117,3 +117,6 @@ insert into  pre_common_member(uid, email, username, password, regdate ) values(
 
 参考 https://blog.csdn.net/lih062624/article/details/69388016
 
+## 2019.04.18
+
+  胥冰洁 改名为 凯里糖果果
