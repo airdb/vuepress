@@ -99,10 +99,12 @@ function getLinuxSidebar() {
 function getBbhjSidebar() {
   return [
     {
-      title: 'Part 1: 项目介绍',
+      title: 'Part 1: 基本信息',
       collapsable: true,
       children: [
-        ''
+        '',
+        'intro',
+        'team'
       ]
     },
     {
