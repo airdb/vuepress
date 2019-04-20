@@ -14,7 +14,14 @@
 Our team
 
 ![user-logo](https://avatars1.githubusercontent.com/u/1617384?s=60&v=4)
-![user-logo](https://avatars1.githubusercontent.com/u/45333095?s=40&v=4)
+![user-logo](https://avatars0.githubusercontent.com/u/41814469?s=96&v=4)
+![user-logo](https://avatars2.githubusercontent.com/u/46845915?s=96&v=4)
+![user-logo](https://avatars1.githubusercontent.com/u/25998688?s=96&v=4)
+![user-logo](https://avatars2.githubusercontent.com/u/3974624?s=96&v=4)
+![user-logo](https://avatars2.githubusercontent.com/u/33515162?s=96&v=4)
+![user-logo](https://avatars3.githubusercontent.com/u/11805725?s=96&v=4)
+![user-logo](https://avatars2.githubusercontent.com/u/6274534?s=96&v=4)
+![user-logo](https://avatars3.githubusercontent.com/u/45333095?s=96&v=4)
 
 
 | 姓名 | 负责方向 |  职责内容  |  说明  |
