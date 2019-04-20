@@ -16,7 +16,7 @@ Our team
 ![user-logo](https://avatars1.githubusercontent.com/u/1617384?s=60&v=4)
 ![user-logo](https://avatars1.githubusercontent.com/u/45333095?s=40&v=4)
 
-About Us
+
 | 姓名 | 负责方向 |  职责内容  |  说明  |
 | ---- |----| ----------|----|
 | 张三 | 前端 | 负责主页面....  |        |
