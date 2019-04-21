@@ -128,6 +128,13 @@ function getBbhjSidebar() {
       children: [
         'new-project'
       ]
+    },
+    {
+      title: 'Part 5: 参考',
+      collapsable: true,
+      children: [
+        'reference'
+      ]
     }
   ]
 }
