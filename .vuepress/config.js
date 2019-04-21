@@ -104,7 +104,8 @@ function getBbhjSidebar() {
       children: [
         '',
         'intro',
-        'team'
+        'team',
+        'weekly-report/'
       ]
     },
     {

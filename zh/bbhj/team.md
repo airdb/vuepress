@@ -1,4 +1,8 @@
-# 团队
+# 团队建设
+
+宝贝回家技术公益团队于2018年初逐步建立，以“技术改变公益”为理念，服务于公益组织或社会团体。涉足领域包括，网站论坛运维，站点开发，小程序开发等, 目前有产品，项目、开发、设计、运营等岗位。
+
+如果您和我们有共同的想法或目标，欢迎加入。
 
 ## 成员介绍
 
@@ -12,11 +16,12 @@
 | <img src="http://wx.qlogo.cn/mmhead/PiajxSqBRaEJUrw1hw07l4ZQ6uHPO12RiccUHONT4DxKhibhkUX4liasTw/64/0" style="width:32px; height:32px; border-radius:50%; "/>  douNine | BE-RD | 后端开发 |    |
 | <img src="https://wx.qlogo.cn/mmhead/ibefPNwibd61AdP63mprCZdPBrJUiaibbVwrfklC1RjKfP4/64" style="width:32px; height:32px; border-radius:50%; "/>  xueli | PM   | 产品设计、规划  |    |
 | <img src="https://wx.qlogo.cn/mmhead/PiajxSqBRaEJGHsqeA6JWP4CBreCCzGopxvTClbfLDlYK4ibEVGhibTyw/64" style="width:32px; height:32px; border-radius:50%; "/>  Riddikulus | UI   | 网站、小程序等原型图设计 |    |
-| <img src="https://wx.qlogo.cn/mmhead/yLHZiaU8icUmibuD1b1Kiby18HNGLgWQmGicSAbUPmfQPClg/64" style="width:32px; height:32px; border-radius:50%; "/>  You |      | Join us, come on!  |    |
+| <img src="https://wx.qlogo.cn/mmhead/Q3auHgzwzM4pGAAx4ezTdYo0xS8e69K03ziaTQ4iaFKocfc8Y8fgBSeA/64" style="width:32px; height:32px; border-radius:50%; "/>  You |      | Join us, come on!  |    |
 
 ## 团队文化
-宝贝回家志愿者协会成立于某年某月。现在拥有志愿者N人，当前志愿者团队主要分为寻亲类和研发管理类。
-为创建良好的组织文化，帮助团队组织做好文化建设，不偏不倚的超目标前进。组织通过讨论，确认了自身的MVVS。
+
+为创建良好的组织文化，帮助团队组织做好文化建设，不偏不倚的朝目标前进。团队通过讨论，形成了自身的 MVVS。
+
 * 1.使命（Misson）
 * 2.愿景（Vision）
 * 3.价值观（Value）
