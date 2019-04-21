@@ -109,28 +109,22 @@ function getBbhjSidebar() {
       ]
     },
     {
-      title: 'Part 2: 服务部署',
+      title: 'Part 2: 日常维护',
       collapsable: true,
       children: [
-        'bbs-deploy'
-      ]
-    },
-    {
-      title: 'Part 3: 日常维护',
-      collapsable: true,
-      children: [
+        'bbs-deploy',
         'changelog'
       ]
     },
     {
-      title: 'Part 4: 孵化项目',
+      title: 'Part 3: 孵化项目',
       collapsable: true,
       children: [
         'new-project'
       ]
     },
     {
-      title: 'Part 5: 参考',
+      title: 'Part 4: 参考',
       collapsable: true,
       children: [
         'reference'
