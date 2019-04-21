@@ -116,7 +116,7 @@ function getBbhjSidebar() {
       ]
     },
     {
-      title: 'Part 3: 更新日志',
+      title: 'Part 3: 日常维护',
       collapsable: true,
       children: [
         'changelog'
