@@ -12,10 +12,6 @@
 
 [其他工作](https://github.com/bbhj/intro/projects/1)
 
-## 学习心得
+## 学习体会
 
 [douNine](douNine.html)
-
-## 模板
-
-[示例](template.html)

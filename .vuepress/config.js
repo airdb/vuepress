@@ -104,12 +104,19 @@ function getBbhjSidebar() {
       children: [
         '',
         'intro',
-        'team',
-        'weekly-report/'
+        'team'
       ]
     },
     {
-      title: 'Part 2: 日常维护',
+      title: 'Part 2: 工作周报',
+      collapsable: true,
+      children: [
+        'weekly-report/',
+        'weekly-report/template'
+      ]
+    },
+    {
+      title: 'Part 3: 日常维护',
       collapsable: true,
       children: [
         'bbs-deploy',
@@ -117,14 +124,14 @@ function getBbhjSidebar() {
       ]
     },
     {
-      title: 'Part 3: 孵化项目',
+      title: 'Part 4: 孵化项目',
       collapsable: true,
       children: [
         'new-project'
       ]
     },
     {
-      title: 'Part 4: 参考',
+      title: 'Part 5: 参考',
       collapsable: true,
       children: [
         'reference'

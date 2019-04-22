@@ -13,6 +13,8 @@
 
 产品原型图: [移动端](https://www.xiaopiu.com/user?uid=5cac564be443734eec30ed77) | [PC 端](https://www.xiaopiu.com/user?uid=5cac564be443734eec30ed77&platform=web)
 
+设计图: [蓝湖](https://lanhuapp.com/web/#/item)
+
 Slides: [slides.com](https://slides.com/airdb/deck#/)
 
 项目进度: [waffle.io](https://waffle.io/bbhj/mina)

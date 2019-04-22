@@ -1,34 +1,34 @@
-# 样例
+# 周报模板
 
-## 1. Weekly Call Template
+## 示例
 
-### 2019w16 Weekly Call (04.15 ~ 04.21)
+### Weekly Meeting 2019w16 (04.15 ~ 04.21)
 
-**Time**: April 21, 2019
-
-**Moderator**: @dean
-
-**Notetaker**: @dean
-
-**Video/Slides**: https://youtu.be/JFWi5yebR88
-
-**Moderator checklist**:
+> **Time**: April 21, 2019
+<br>
+> **Moderator**: @dean
+<br>
+> **Notetaker**: @dean
+<br>
+> **Video/Slides**: https://youtu.be/JFWi5yebR88
+<br>
+> **Moderator checklist**:
 
 - 确定参会人数及时间
 - 是否需要视频或录屏
 - 会议议题及沟通事项
 - 提前准备工作计划
 
-**Attendees:**
+> **Attendees:**
 - @dean
 - @tbDuck
 
 -----------------
-**Agenda**
+> **Agenda**
 
-**Topic**: 5月 OKR 沟通
+> **Topic**: 下周工作
 
-**Notes**:
+> **Notes**:
 - 技术突破
 - 志愿者信息录入
 - 小程序使用场景
@@ -37,33 +37,38 @@
   - 微信群组分享
 
 
-**Questions**: 
-- **Q**: @dean, xxx 技术的优势有哪些?
-- **A**: 我也不知道，会后我了解一下。
+> **Questions**:
+- **Q**: @dean, 为什么用 mpvue, 不用 wepy 呢？
+- **A**: 因为 mpvue 使用成本小，且当前已经支持各类小程序。对于我们来讲，是比较简单的
 
 
-**Comments**:
+> **Comments**:
 - @dean 服务器资源紧急，我下周开始跟进。
 
-## 2. Weekly Report Template
+-----------------
+> **ToDo**:
 
-### 2.1 工作模板示例如下: 
-
-#### 2019w16 周报 (04.15 ~ 04.21)
 @dean:
-- [x] :bug: 真机生成图片，二维码异常问题
-- [x] :bug:  搜索支持档案编号babyid 数字搜索
-- [ ] :red_circle: 动态功能， 增加文章链接。 单个的item 的布局采用类似微信订阅号的样式
-- [ ] 动态页面显示腾讯视频功能。
-- [ ] 开发聊天室功能，类似于微信群聊天。
+- [ ] createqrcode 获取小程序二维码接口支持参数。
+- <del> [d] : 救助站信息录入 </del>
 
 @tbDuck:
 
-- [x] :bug: 真机生成图片，二维码异常问题
-- [ ] :red_circle: 动态功能， 增加文章链接。 单个的item 的布局采用类似微信订阅号的样式
+- [ ] 用户手机号码获取，使用 button 组件 [getPhoneNumber](https://developers.weixin.qq.com/miniprogram/dev/framework/open-ability/getPhoneNumber.html)
+- [ ] 用户收件地址获取，使用 api 接口 [wx.chooseAddress](https://developers.weixin.qq.com/miniprogram/dev/api/wx.chooseAddress.html)
+- [ ] 用户信息灰色进行提示，文本框支持编辑功能
+- [ ] 志愿者信息录入逻辑实现
+
+@Newbg:
+
+- [ ] 客服页面布局设计
+
+@xi4oyi:
+
+- [ ] 周会模板制定
 
 
-### 2.2 使用说明
+## 使用说明
 
 工作计划分为3段，第1段表示工作进度，第2段表示分类及优先级，第三段表示具体的工作内容。
 
@@ -86,5 +91,4 @@ b. 分类标识
 
 c. 工作内容
 
-单条工作内容尽量不超过20个汉字，目标必须可以在9小时以内完成，且能够进行验证、验收。
-
+单条工作内容尽量不超过20个汉字，目标必须可以在9小时以内完成，且能够进行验证、验收
