@@ -124,3 +124,8 @@ insert into  pre_common_member(uid, email, username, password, regdate ) values(
   分类：修改用户名
 
   胥冰洁 -> 凯里糖果果
+
+### 2019.04.24
+  分类: 帐号被删除
+
+  pre_common_member 表增加 蓝喵
