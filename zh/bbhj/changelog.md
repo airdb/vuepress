@@ -129,3 +129,8 @@ insert into  pre_common_member(uid, email, username, password, regdate ) values(
   分类: 帐号被删除
 
   pre_common_member 表增加 蓝喵
+
+### 2019.04.26
+  分类：修改用户名
+
+    用户名：西安雁塔小梅   改成 西安雁塔诗琪
