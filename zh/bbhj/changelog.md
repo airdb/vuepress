@@ -133,4 +133,5 @@ insert into  pre_common_member(uid, email, username, password, regdate ) values(
 ### 2019.04.26
   分类：修改用户名
 
-    用户名：西安雁塔小梅   改成 西安雁塔诗琪
+  用户名：西安雁塔小梅   改成 西安雁塔诗琪
+  用户名：沛县-安国-佳佳 改成 江苏道
