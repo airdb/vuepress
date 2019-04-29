@@ -108,11 +108,11 @@ function getBbhjSidebar() {
       ]
     },
     {
-      title: 'Part 2: 工作周报',
+      title: 'Part 2: 工作报告',
       collapsable: true,
       children: [
-        'weekly-report/',
-        'weekly-report/template'
+        'report/',
+        'report/template'
       ]
     },
     {
