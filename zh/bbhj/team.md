@@ -18,7 +18,6 @@
 | <img src="http://wx.qlogo.cn/mmhead/PiajxSqBRaEJUrw1hw07l4ZQ6uHPO12RiccUHONT4DxKhibhkUX4liasTw/64/0" style="width:32px; height:32px; border-radius:50%; "/>  douNine | BE-RD | 后端开发 |    |
 | <img src="https://wx.qlogo.cn/mmhead/ibefPNwibd61AdP63mprCZdPBrJUiaibbVwrfklC1RjKfP4/64" style="width:32px; height:32px; border-radius:50%; "/>  shirley | PM   | 产品设计、规划  |    |
 | <img src="https://wx.qlogo.cn/mmhead/iaxbm0mx8p8JbKGj8M8x0u5JwtskkHg1BtfX0jic2fiazM/64" style="width:32px; height:32px; border-radius:50%; "/>  wuxuanz | UI  | UI 设计 |    |
-| <img src="https://wx.qlogo.cn/mmhead/PiajxSqBRaEJGHsqeA6JWP4CBreCCzGopxvTClbfLDlYK4ibEVGhibTyw/64" style="width:32px; height:32px; border-radius:50%; "/>  Riddikulus | UI   | 网站、小程序等原型图设计 |    |
 | <img src="https://wx.qlogo.cn/mmhead/Q3auHgzwzM4pGAAx4ezTdYo0xS8e69K03ziaTQ4iaFKocfc8Y8fgBSeA/64" style="width:32px; height:32px; border-radius:50%; "/>  You |      | Join us, come on!  |    |
 
 ## 团队文化
