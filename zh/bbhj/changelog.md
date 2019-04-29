@@ -134,3 +134,8 @@ insert into  pre_common_member(uid, email, username, password, regdate ) values(
   分类：修改用户名
 
     用户名：西安雁塔小梅   改成 西安雁塔诗琪
+
+### 2019.04.29
+  分类：修改用户名
+
+    用户名：秋水无痕1  改成  三平人生
