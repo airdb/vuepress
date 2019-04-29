@@ -36,3 +36,14 @@ sudo scutil --set HostName 新的主机名
 ## Mac下解决LC_CTYPE警告的最简单方法
 
   [terminal 去掉set locale environment](https://jingyan.baidu.com/article/fdbd4277c564c8b89e3f48eb.html)
+
+## SSH连接服务器一段时间不操作之后卡死的问题
+
+  卡死是因为LIUNX安全设置问题，在一段时间内没有使用数据的情况下会自动断开，解决方法就是让本地或者服务器隔一段时间发送一个请求给对方即可
+
+  ~/.ssh/config 中增加如下配置即可。
+  #每隔50秒就向服务器发送一个请求
+  ServerAliveInterval 50 
+  #允许超时的次数，一般都会响应
+  ServerAliveCountMax 3
+
