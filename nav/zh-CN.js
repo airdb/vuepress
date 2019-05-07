@@ -25,6 +25,7 @@ module.exports = [
       {
 	text: '技术分享',
         items: [
+          { text: '四种学习方法', link: '/zh/workhack/' },
           { text: 'Linux 系统入门', link: '/zh/linux/' },
           { text: 'Golang 编程基础课', link: '/zh/open/golang/' },
           { text: 'SRE Books(英文)', link: 'https://landing.google.com/sre/books/' },
