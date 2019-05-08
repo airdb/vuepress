@@ -35,7 +35,8 @@ module.exports = {
             '/zh/linux/': getLinuxSidebar(),
             '/zh/bbhj/': getBbhjSidebar(),
             '/zh/open/ai/': getAlgorithmSidebar(),
-            '/zh/english/': getEnglishSidebar()
+            '/zh/english/': getEnglishSidebar(),
+            '/zh/go/': getGoSidebar()
         }
       },
       '/en-US/': {
@@ -200,6 +201,26 @@ function getEnglishSidebar() {
         'daily-question/02/week07',
         'daily-question/02/week08',
         'daily-question/02/week09'
+      ]
+    }
+  ]
+}
+
+
+function getGoSidebar() {
+  return [
+    {
+      title: 'Golang 入门',
+      collapsable: true,
+      children: [
+        ''
+      ]
+    },
+    {
+      title: 'Web 开发',
+      collapsable: true,
+      children: [
+        'beego'
       ]
     }
   ]
