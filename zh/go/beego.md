@@ -6,6 +6,8 @@
 ## JWT
 [认识JWT](https://www.cnblogs.com/cjsblog/p/9277677.html)
 
+[jwt-beegoo](https://github.com/juusechec/jwt-beego)
+
 
 # Beego Filter
 
