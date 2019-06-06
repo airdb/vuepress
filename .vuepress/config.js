@@ -39,7 +39,7 @@ module.exports = {
             '/zh/go/': getGoSidebar()
         }
       },
-      '/en-US/': {
+      '/en/': {
 	    label: 'English',
         selectText: 'Languages',
         lastUpdated: 'LastUpdated',
