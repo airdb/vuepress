@@ -1,13 +1,12 @@
 module.exports = [
   { text: 'bbhj', link: '/zh-CN/bbhj/' },
   {
-    text: 'more',
+    text: 'Labs-College',
     items: [
       {
-	text: 'Open Plubic Tech Class',
+	    text: 'courses',
         items: [
-          { text: 'Linux - how to', link: '/zh-CN/open/linux/' },
-          { text: 'Golang - low level', link: '/zh-CN/open/golang/' },
+          { text: 'LC', link: '/en/labs-college/courses/lc1001.html' },
         ]
       }
     ]

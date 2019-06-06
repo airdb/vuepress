@@ -13,9 +13,9 @@ module.exports = {
       title: 'Airdb',
       description : '科技让公益更加美好。',
     },
-    '/en-US/': {
+    '/en/': {
       lang: 'en-US',
-      title: 'Airdb Technical Welfare',
+      title: 'Airdb',
       description : 'Best Tech for Best Life.',
     }
   },
