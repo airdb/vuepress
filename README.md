@@ -4,6 +4,8 @@ heroImage:
 actionText: Get Started →
 actionLink: /en/guide/
 features:
+- title: Public Benefits
+  details: Support some websites of public welfare by our IT technology.
 - title: Labs College
   details: Share compute science courses.
 - title: 

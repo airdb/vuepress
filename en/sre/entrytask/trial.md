@@ -33,7 +33,7 @@ Target as follow:
 ## Agenda
 - Day1: 
     - Install [VirtualBox](https://www.virtualbox.org/) and Create a vm, then install os to the vm
-    - Use `Vagrant` to manage `VirtualBox`
+    - Use [Vagrant](https://www.vagrantup.com/intro/getting-started/index.html) to manage `VirtualBox`
 - Day2:
     - Use `Vagrant` provision shell to auto execute scripts
     - Shell scripting
