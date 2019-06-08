@@ -3,21 +3,10 @@ module.exports = [
     text: 'Guide',
     items: [
       {
-        text: 'Team',
+        text: 'Overview',
         items: [
-          {text: 'SA', link: '/en/guide/sa.html'},
-          {text: 'SRE', link: '/en/guide/sre.html'},
-          {text: 'Dev', link: '/en/guide/dev.html'},
-          {text: 'QA', link: '/en/guide/qa.html'},
-        ]
-      },
-      {
-        text: 'Entry Task',
-        items: [
-          {text: 'Trial', link: '/en/sre/entrytask'},
-          {text: 'General', link: '/en/sre/entrytask'},
-          {text: 'Senior', link: '/en/sre/entrytask'},
-          {text: 'Expert', link: '/en/sre/entrytask'},
+          {text: 'Introduction', link: '/en/guide/'},
+          {text: 'Entry Task', link: '/en/sre/entrytask/'},
         ]
       }
     ]

@@ -32,8 +32,10 @@ module.exports = {
         searchMaxSuggestions: 10,
         nav: require('./nav/en-US.js'),
         sidebar: {
-              '/en/guide/': getSidebar_en_guide()
-        }
+            '/en/guide/': getSidebar_en_guide(),
+            '/en/sre/entrytask/': getSidebar_en_entrytask("sre")
+        },
+        sidebarDepth : 2
       },
       '/zh': {
         label: '简体中文',
@@ -225,14 +227,43 @@ function getGoSidebar() {
 function getSidebar_en_guide() {
   return [
     {
-      title: 'Airdb Document Center Guide',
+      title: 'Introduction',
+      collapsable: true,
+      children: [
+        '',
+        'organization',
+        'culture'
+      ]
+    },
+    {
+      title: 'Products & Services',
+      collapsable: true,
+      children: [
+        'products',
+        'services',
+      ]
+    },
+    {
+      title: 'Career',
+      collapsable: true,
+      children: [
+        'career'
+      ]
+    }
+  ]
+}
+
+function getSidebar_en_entrytask() {
+  return [
+    {
+      title: 'Overview',
       collapsable: true,
       children: [
         ''
       ]
     },
     {
-      title: 'Teams',
+      title: 'SRE',
       collapsable: true,
       children: [
         ''
