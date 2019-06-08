@@ -9,14 +9,14 @@ module.exports = {
   base : '/',
   locales: {
     '/': {
+      lang: 'en-US',
+      title: 'Airdb',
+      description : 'Better Tech, Better Life.',
+    },
+    '/zh': {
       lang: 'zh-CN',
       title: 'Airdb',
       description : '科技让公益更加美好。',
-    },
-    '/en/': {
-      lang: 'en-US',
-      title: 'Airdb',
-      description : 'Best Tech for Best Life.',
     }
   },
   themeConfig : {
@@ -25,32 +25,29 @@ module.exports = {
     docsDir: '.',
     locales: {
       '/': {
-	    label: '简体中文',
-        selectText: '选择语言',
-        search: true,
-        searchMaxSuggestions: 10,
-        lastUpdated: '上次更新',
-        nav: require('../nav/zh-CN.js'),
-        sidebar: {
-            '/zh/linux/': getLinuxSidebar(),
-            '/zh/bbhj/': getBbhjSidebar(),
-            '/zh/open/ai/': getAlgorithmSidebar(),
-            '/zh/english/': getEnglishSidebar(),
-            '/zh/go/': getGoSidebar()
-        }
-      },
-      '/en/': {
 	    label: 'English',
         selectText: 'Languages',
         lastUpdated: 'LastUpdated',
         search: true,
         searchMaxSuggestions: 10,
-        nav: require('../nav/en-US.js'),
+        nav: require('./nav/en-US.js'),
         sidebar: {
-            '/zh/' : [
-                "/zh/bbhj/",
-                "/zh/open/",
-            ]
+              '/en/guide/': getGoSidebar()
+        }
+      },
+      '/zh': {
+        label: '简体中文',
+        selectText: '选择语言',
+        search: true,
+        searchMaxSuggestions: 10,
+        lastUpdated: '上次更新',
+        nav: require('./nav/zh-CN.js'),
+        sidebar: {
+          '/zh/linux/': getLinuxSidebar(),
+          '/zh/bbhj/': getBbhjSidebar(),
+          '/zh/open/ai/': getAlgorithmSidebar(),
+          '/zh/english/': getEnglishSidebar(),
+          '/zh/go/': getGoSidebar()
         },
         sidebarDepth : 2
       }
