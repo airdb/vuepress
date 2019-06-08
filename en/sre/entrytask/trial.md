@@ -31,7 +31,7 @@ Target as follow:
 3. Online Toubleshooting test(30 minutes).
 
 ## Agenda
-- Day1 
+- Day1:
 - Day2
 - Day3 
 - Day4 
