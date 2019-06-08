@@ -4,11 +4,11 @@
 [Get Started](entrytask/trial.html)
 
 ## General
-[Get Started](entrytask/trial.html)
+[Get Started](entrytask/general.html)
 
 ## Senior
 
-[Get Started](entrytask/trial.html)
+[Get Started](entrytask/senior.html)
 ## Expert
 
-[Get Started](entrytask/trial.html)
+[Get Started](entrytask/expert.html)
