@@ -32,7 +32,7 @@ module.exports = {
         searchMaxSuggestions: 10,
         nav: require('./nav/en-US.js'),
         sidebar: {
-              '/en/guide/': getGoSidebar()
+              '/en/guide/': getSidebar_en_guide()
         }
       },
       '/zh': {
@@ -203,7 +203,6 @@ function getEnglishSidebar() {
   ]
 }
 
-
 function getGoSidebar() {
   return [
     {
@@ -218,6 +217,25 @@ function getGoSidebar() {
       collapsable: true,
       children: [
         'beego'
+      ]
+    }
+  ]
+}
+
+function getSidebar_en_guide() {
+  return [
+    {
+      title: 'Airdb Document Center Guide',
+      collapsable: true,
+      children: [
+        ''
+      ]
+    },
+    {
+      title: 'Teams',
+      collapsable: true,
+      children: [
+        ''
       ]
     }
   ]
