@@ -17,7 +17,10 @@ module.exports = [
       {
 	    text: 'Courses',
         items: [
-          { text: 'LC', link: '/en/labs-college/courses/lc1001.html' },
+          { text: 'Overview', link: '/en/labs-college/courses/index.html' },
+          { text: 'Stack Test', link: '/en/labs-college/courses/st1001.html' },
+          { text: 'Developer Tutorials', link: '/en/labs-college/courses/lc1001.html' },
+          { text: 'SRE Tutorials', link: '/en/labs-college/courses/sre1001.html' },
         ]
       }
     ]

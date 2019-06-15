@@ -27,6 +27,8 @@ PasswordAuthentication no
 PermitRootLogin yes             # 允许root用户远程登录
 ```
 
+# 生成证书
+ssh-keygen  -b 2048 -C $HOSTNAME
 
 ## 排障
 

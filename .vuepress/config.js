@@ -33,7 +33,8 @@ module.exports = {
         nav: require('./nav/en-US.js'),
         sidebar: {
             '/en/guide/': getSidebar_en_guide(),
-            '/en/sre/entrytask/': getSidebar_en_entrytask("sre")
+            '/en/sre/entrytask/': getSidebar_en_entrytask("sre"),
+            '/en/labs-college/courses/': getSidebar_en_courses("sre")
         },
         sidebarDepth : 2
       },
@@ -267,6 +268,33 @@ function getSidebar_en_entrytask() {
       collapsable: true,
       children: [
         ''
+      ]
+    }
+  ]
+}
+
+function getSidebar_en_courses() {
+  return [
+    {
+      title: 'Overview',
+      collapsable: true,
+      children: [
+        ''
+      ]
+    },
+    {
+      title: 'Stack Test',
+      collapsable: true,
+      children: [
+        'st1001'
+      ]
+    },
+    {
+      title: 'Developer Tutorials',
+      collapsable: true,
+      children: [
+        'lc1001',
+        'lc1002'
       ]
     }
   ]
