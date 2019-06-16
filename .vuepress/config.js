@@ -293,6 +293,7 @@ function getSidebar_en_courses() {
       title: 'Developer Tutorials',
       collapsable: true,
       children: [
+        'dev1001',
         'lc1001',
         'lc1002'
       ]
