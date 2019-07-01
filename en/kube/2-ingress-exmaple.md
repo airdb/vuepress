@@ -1,5 +1,7 @@
 # Kubernetes Ingress with Nginx Example
 
+[refer](https://matthewpalmer.net/kubernetes-app-developer/articles/kubernetes-ingress-guide-nginx-example.html)
+
 ## How to Use Nginx Ingress Controller
 
 ### Installation Guide
