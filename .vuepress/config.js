@@ -316,7 +316,7 @@ function getSidebar_en_kube() {
       title: 'Kube Requirement',
       collapsable: true,
       children: [
-        '1-kubernetes_on_macOS',
+        '1-kubernetes-on-macOS',
         '2-ingress-exmaple'
       ]
     }
