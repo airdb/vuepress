@@ -34,7 +34,7 @@ module.exports = {
         sidebar: {
             '/en/guide/': getSidebar_en_guide(),
             '/en/sre/entrytask/': getSidebar_en_entrytask("sre"),
-            '/en/labs-college/courses/': getSidebar_en_courses("sre")
+            '/en/labs-college/courses/': getSidebar_en_courses("sre"),
             '/en/kube/': getSidebar_en_kube()
         },
         sidebarDepth : 2
@@ -316,7 +316,8 @@ function getSidebar_en_kube() {
       title: 'Kube Requirement',
       collapsable: true,
       children: [
-        '1_kubernetes_on_macOS.md'
+        '1-kubernetes_on_macOS',
+        '2-ingress-exmaple'
       ]
     }
   ]
