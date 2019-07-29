@@ -295,7 +295,6 @@ function getSidebar_en_courses() {
       collapsable: true,
       children: [
         'dev1001',
-        'dev1002',
         'lc1001',
         'lc1002'
       ]
