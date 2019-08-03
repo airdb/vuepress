@@ -319,6 +319,13 @@ function getSidebar_en_kube() {
         '1-kubernetes-on-macOS',
         '2-ingress-exmaple'
       ]
+    },
+    {
+      title: 'Helm',
+      collapsable: true,
+      children: [
+        '5-helm'
+      ]
     }
   ]
 }
