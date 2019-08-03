@@ -4,7 +4,7 @@
 
 Full-Stack College is a open & free platform for modern software enginner to imporve their skills or ability.
 
-The first thing for a full-stack enginner is that he/her must know what's services and how to management.
+The first thing for a full-stack enginner is that she/he must know what's services and how to management.
 
 So, we will share many courses about that.
 
