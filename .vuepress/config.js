@@ -299,6 +299,13 @@ function getSidebar_en_courses() {
         'lc1001',
         'lc1002'
       ]
+    },
+	{
+      title: 'Sharing Record',
+      collapsable: true,
+      children: [
+        'records'
+      ]
     }
   ]
 }
