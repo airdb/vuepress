@@ -26,9 +26,10 @@ jobs:
         cd ./.vuepress/dist
         echo 'www.airdb.com' > CNAME
         git init
-        git config user.name "bot"
-        git config user.email "bot"
+        git config user.name "airdb-bot"
+        git config user.email "git-bot@airdb.com"
         git add -A
         git commit -m "Auto Update by actions"
+        git clone https://airdb-bot:${{ secrets.GithubBotToken }}@github.com/airdb/airdb.github.io --branch=gh-pages gh-pages
       env:
         CI: true
