@@ -1,4 +1,4 @@
-name: Node CI
+name: Node
 
 on: [push]
 
@@ -27,8 +27,10 @@ jobs:
         git init
         git config user.name "airdb-bot"
         git config user.email "git-bot@airdb.com"
+        git remote add origin https://airdb-bot:${{ secrets.GithubBotToken }}@github.com/airdb/airdb.github.io
         git add -A
         git commit -m "Auto Update by actions"
-        git push https://airdb-bot:${{ secrets.GithubBotToken }}@github.com/airdb/airdb.github.io --branch=gh-pages gh-pages
+        echo git push --force "https://${{ secrets.GithubBotToken }}@github.com/airdb/airdb.github.io" master
+        git push --force "https://${{ secrets.GithubBotToken }}@github.com/airdb/airdb.github.io" master
       env:
         CI: true
