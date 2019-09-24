@@ -22,7 +22,6 @@ jobs:
         npm install -g vuepress
         npm install
         npm run build --if-present
-        cp favicon.ico ./.vuepress/dist
         cd ./.vuepress/dist
         echo 'www.airdb.com' > CNAME
         git init
