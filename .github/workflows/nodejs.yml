@@ -26,8 +26,7 @@ jobs:
         echo 'www.airdb.com' > CNAME
         git init
         git config user.name "airdb-bot"
-        git config user.email "git-bot@airdb.com"
-        # git remote add origin https://airdb-bot:${{ secrets.GithubBotToken }}@github.com/airdb/airdb.github.io
+        git config user.email "airdb-bot@airdb.com"
         git add -A
         git commit -m "Auto Update by actions"
         git push --force "https://${{ secrets.GithubBotToken }}@github.com/airdb/airdb.github.io" master
