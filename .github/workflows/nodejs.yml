@@ -30,7 +30,6 @@ jobs:
         # git remote add origin https://airdb-bot:${{ secrets.GithubBotToken }}@github.com/airdb/airdb.github.io
         git add -A
         git commit -m "Auto Update by actions"
-        echo git push --force "https://${{ secrets.GithubBotToken }}@github.com/airdb/airdb.github.io" master
         git push --force "https://${{ secrets.GithubBotToken }}@github.com/airdb/airdb.github.io" master
       env:
         CI: true
