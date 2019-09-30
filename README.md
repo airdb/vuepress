@@ -1,6 +1,6 @@
 ---
 home: true
-heroText: We Are Builders
+heroText: WeBuilder
 heroImage:
 actionText: Get Started →
 actionLink: /en/guide/
