@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: 
+heroImage:
 actionText: 了解我们 →
 actionLink: /zh/guide/
 features:
@@ -10,7 +10,7 @@ features:
   details: 技术分享余是利用业余时间进行一些 IT 技术的分享, 主要分享前沿互联网技术和讲述相关经验等。
 - title: 个人成长
   details: 记录个人生活、工作经历，总结一些自我学习、能力提升相关的东西。
-footer: MIT Licensed | Copyright © 2017-present airdb.
+footer: MIT Licensed | Copyright © 2015-present airdb.
 ---
 
 # Hello.

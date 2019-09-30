@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: 
+heroImage:
 actionText: Get Started →
 actionLink: /en/guide/
 features:
@@ -8,9 +8,9 @@ features:
   details: Support some websites of public welfare by our IT technology.
 - title: Labs College
   details: Share compute science courses.
-- title: 
-  details: 
-footer: MIT Licensed | Copyright © 2018-present airdb.
+- title:
+  details:
+footer: MIT Licensed | Copyright © 2015-present airdb.
 ---
 
 # Hello.
