@@ -8,7 +8,15 @@ module.exports = [
           {text: 'Introduction', link: '/en/guide/'},
           {text: 'Entry Task', link: '/en/sre/entrytask/'},
         ]
-      }
+      },
+      {
+        text: 'Github',
+        items: [
+          {text: 'Helm', link: 'https://www.airdb.com/helm/'},
+          {text: 'Docker', link: 'https://www.airdb.com/docker/'},
+          {text: 'Interview', link: 'https://www.airdb.com/interview/'},
+        ]
+      },
     ]
   },
   {

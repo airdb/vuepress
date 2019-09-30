@@ -17,6 +17,6 @@
   "author": "Dean",
   "license": "ISC",
   "dependencies": {
-    "vuepress": "^0.14.11"
+    "vuepress": "^1.1.0"
   }
 }
