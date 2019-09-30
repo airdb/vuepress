@@ -20,8 +20,10 @@ module.exports = {
     }
   },
   themeConfig : {
+    /*
     repo: 'airdb/vuepress',
     editLinks: true,
+    */
     docsDir: '.',
     locales: {
       '/': {
