@@ -7,7 +7,6 @@ module.exports = [
         text: 'Overview',
         items: [
           {text: 'Introduction', link: '/en/guide/'},
-          {text: 'Entry Task', link: '/en/sre/entrytask/'},
         ]
       },
       {
@@ -27,6 +26,7 @@ module.exports = [
       {
         text: 'Courses',
         items: [
+          {text: 'Entry Task', link: '/en/sre/entrytask/'},
           { text: 'Overview', link: '/en/labs-college/courses/index.html' },
           { text: 'Stack Test', link: '/en/labs-college/courses/st1001.html' },
           { text: 'Developer Tutorials', link: '/en/labs-college/courses/lc1001.html' },
