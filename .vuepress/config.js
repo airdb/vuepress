@@ -32,7 +32,7 @@ module.exports = {
         lastUpdated: 'LastUpdated',
         search: true,
         searchMaxSuggestions: 10,
-        nav: require('./nav/en-US.js'),
+        nav: require('../config/nav-en-US.js'),
         sidebar: {
             '/en/guide/': getSidebar_en_guide(),
             '/en/sre/entrytask/': getSidebar_en_entrytask("sre"),
@@ -47,7 +47,7 @@ module.exports = {
         search: true,
         searchMaxSuggestions: 10,
         lastUpdated: '上次更新',
-        nav: require('./nav/zh-CN.js'),
+        nav: require('../config/nav-zh-CN.js'),
         sidebar: {
           '/zh/linux/': getLinuxSidebar(),
           '/zh/bbhj/': getBbhjSidebar(),

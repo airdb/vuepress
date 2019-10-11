@@ -1,4 +1,5 @@
 module.exports = [
+  { text: 'Status', link: '/status/' },
   {
     text: 'Guide',
     items: [
