@@ -15,7 +15,7 @@ module.exports = [
           {text: 'Helm', link: 'https://www.airdb.com/helm/'},
           {text: 'Docker', link: 'https://www.airdb.com/docker/'},
           {text: 'Interview', link: 'https://www.airdb.com/interview/'},
-          {text: 'Interview', link: 'https://www.airdb.com/tf-go/'},
+          {text: 'Tensorflow', link: '/tf-go/'},
         ]
       },
     ]
@@ -24,7 +24,7 @@ module.exports = [
     text: 'Labs-College',
     items: [
       {
-	    text: 'Courses',
+        text: 'Courses',
         items: [
           { text: 'Overview', link: '/en/labs-college/courses/index.html' },
           { text: 'Stack Test', link: '/en/labs-college/courses/st1001.html' },
