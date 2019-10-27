@@ -12,7 +12,6 @@ module.exports = [
       {
         text: 'Github',
         items: [
-          {text: 'Helm', link: 'https://www.airdb.com/helm/'},
           {text: 'Init', link: 'https://www.airdb.com/init/'},
           {text: 'Interview', link: 'https://www.airdb.com/interview/'},
           {text: 'Tensorflow', link: '/tf-go/'},
