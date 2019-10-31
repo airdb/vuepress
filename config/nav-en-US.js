@@ -19,7 +19,13 @@ module.exports = [
       },
     ]
   },
-  { text: 'BBS', link: 'https://www.airdb.com/bbs/' },
+  {
+    text: 'Project',
+    items: [
+  	  { text: 'BBS', link: 'https://www.airdb.com/bbs/' },
+  	  { text: 'HeyNic', link: 'https://www.airdb.com/heynic/' },
+	]
+  },
   {
     text: 'Labs-College',
     items: [
